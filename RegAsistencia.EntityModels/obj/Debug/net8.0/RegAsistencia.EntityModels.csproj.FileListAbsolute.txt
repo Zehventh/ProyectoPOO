@@ -1,0 +1,154 @@
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Debug\net8.0\ref\RegAsistencia.EntityModels.dll

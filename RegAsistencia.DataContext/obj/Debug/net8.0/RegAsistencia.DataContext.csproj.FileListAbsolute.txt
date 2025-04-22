@@ -1,0 +1,165 @@
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\SistemaAsistencia_14abril\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevo\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\DELL\Downloads\SistemaAsistenciaNuevoCambio Botones\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\macan\Documents\POO\PROYECTO\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia17_4\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\silviaaz\OneDrive\Escritorio\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Debug\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Debug\net8.0\ref\RegAsistencia.DataContext.dll

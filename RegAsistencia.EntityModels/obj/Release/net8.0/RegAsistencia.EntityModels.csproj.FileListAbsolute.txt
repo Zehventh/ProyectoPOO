@@ -1,0 +1,14 @@
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Release\net8.0\RegAsistencia.EntityModels.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Release\net8.0\RegAsistencia.EntityModels.runtimeconfig.json
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Release\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\bin\Release\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\refint\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\RegAsistencia.EntityModels.genruntimeconfig.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.EntityModels\obj\Release\net8.0\ref\RegAsistencia.EntityModels.dll

@@ -1,0 +1,15 @@
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Release\net8.0\RegAsistencia.DataContext.deps.json
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Release\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Release\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Release\net8.0\RegAsistencia.EntityModels.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\bin\Release\net8.0\RegAsistencia.EntityModels.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.csproj.AssemblyReference.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.AssemblyInfoInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.AssemblyInfo.cs
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsist.6990A4C2.Up2Date
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\refint\RegAsistencia.DataContext.dll
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\RegAsistencia.DataContext.pdb
+C:\Users\edrds\Downloads\Telegram Desktop\Proyecto POO Grupo 3 final\Proyecto POO Grupo 3\SistemaAsistencia\RegAsistencia.DataContext\obj\Release\net8.0\ref\RegAsistencia.DataContext.dll
